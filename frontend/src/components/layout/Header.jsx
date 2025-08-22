@@ -33,7 +33,7 @@ const Header = () => {
           <Link to="/" className="flex items-center space-x-3 group">
             <div className="relative">
               <div className="w-12 h-12 bg-gradient-to-br from-primary-600 to-primary-800 rounded-xl flex items-center justify-center text-white font-bold transform transition-all duration-300 group-hover:scale-110 shadow-lg shadow-primary-600/20">
-                CF
+                JP
                 <div className="absolute inset-0 rounded-xl bg-primary-600 mix-blend-multiply opacity-0 group-hover:opacity-20 transition-opacity duration-300"></div>
               </div>
               <div className="absolute inset-0 rounded-xl bg-primary-600 opacity-20 blur-xl transform scale-150 group-hover:opacity-30 transition-opacity duration-300"></div>
