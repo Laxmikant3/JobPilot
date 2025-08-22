@@ -19,7 +19,7 @@ const Footer = () => {
             <div className="space-y-6">
               <div className="flex items-center transform hover:scale-105 transition-transform duration-300">
                 <div className="w-12 h-12 bg-gradient-to-br from-primary-600 to-primary-800 rounded-xl flex items-center justify-center text-white font-bold mr-3 shadow-lg">
-                  CF
+                  JP
                 </div>
                 <h3 className="text-2xl font-bold text-white bg-gradient-to-r from-primary-400 to-primary-600 bg-clip-text text-transparent">
                   JobPilot
